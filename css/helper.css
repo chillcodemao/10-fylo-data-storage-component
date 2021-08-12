@@ -1,0 +1,75 @@
+:root {
+    font-size: 62.5%;
+}
+
+html {
+    font-family: 'Raleway', sans-serif;
+}
+
+body {
+    background-color: hsl(229, 57%, 11%);
+}
+
+.storage-options {
+    background-color: hsla(228, 56%, 26%, 1);
+}
+
+.fylo-storage-icon-container {
+    background-color: hsla(229, 57%, 11%, 1);
+}
+
+.storage-overview {
+    background-color: hsla(228, 56%, 26%, 1);
+}
+
+.storage-info {
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 1.6rem;
+    color: hsla(243, 100%, 92%, 1);
+}
+
+.storage-space-used {
+    background-color: hsla(229, 57%, 11%, 0.5);
+}
+
+.storage-space-used-progress-bar {
+    background: linear-gradient(90deg, hsla(6, 100%, 80%, 1), hsla(335, 100%, 65%, 1))
+}
+
+.storage-min {
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    color: hsla(243, 100%, 92%, 1);
+}
+
+.storage-max {
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    color: hsla(243, 100%, 92%, 1);
+}
+
+.storage-space-available {
+    background-color: hsla(0, 0%, 100%, 1);
+}
+
+.storage-space-available p {
+    font-weight: 700;
+    font-size: 4rem;
+    line-height: 4rem;
+    color: hsla(229, 57%, 11%, 1);
+}
+
+.storage-space-available span {
+    font-weight: 700;
+    font-size: 1.2rem;
+    line-height: 1.4rem;
+    color: hsla(229, 57%, 11%, 1);
+    opacity: 0.5;
+}
+
+.storage-space-used-end-point {
+    background-color: hsla(0, 0%, 100%, 1);
+}
