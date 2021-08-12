@@ -6,7 +6,8 @@ body {
     min-height: 100vh;
     background-image: url(../img/bg-mobile.png);
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: cover;
+    background-position: bottom;
 }
 
 .storage-component-container {
